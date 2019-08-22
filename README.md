@@ -1,2 +1,5 @@
 # exerciciocurso1
-exercicio de java do curso que estou atualmente cursando (21/08/2019) - ulbra
+exercicio de java - ulbra
+
+consiste de um form com area de texto para inserir numeros impares
+e um monte de treco mais
